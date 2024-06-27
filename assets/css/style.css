@@ -30,6 +30,7 @@
 }
 
 
+
 /* .card {
     box-shadow: 2px 2px 25px;
 } */
@@ -204,4 +205,16 @@ hr {margin-top: 0;
     align-items: center;
     text-wrap: nowrap;
 
+}
+img {
+    width: 200px;
+
+    
+}
+.footer-img {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    vertical-align: top;
+    
 }
